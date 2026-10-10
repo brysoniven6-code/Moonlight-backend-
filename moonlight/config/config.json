@@ -1,0 +1,12 @@
+
+{
+  "name": "Moonlight",
+  "version": "0.1.0",
+  "maintenanceMode": false,
+  "features": {
+    "profiles": true,
+    "catalog": true,
+    "testAuthentication": false
+  }
+}
+
